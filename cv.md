@@ -23,7 +23,7 @@ At the moment I am still taking part in 2 internal projects of the BMRTS company
 * CSS
 * JavaScript (Basic)
 * Git/GitHub
-* Angular (intermediate level knowledge)
+* Angular (intermediate level knowledge) 
 *** 
 ## Education
 * **Belarusian National Technical University**
