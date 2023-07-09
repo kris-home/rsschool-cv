@@ -1,0 +1,211 @@
+@font-face {
+    font-family: "Akshar";
+    src: url("../fonts/Akshar-Regular.ttf");
+  }
+
+*{
+    font-family:"Akshar";
+    color: #97aabd;
+}
+html{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(218, 215, 215);
+}
+a{
+    text-decoration:none;
+    color: #97aabd;
+}
+a:hover{
+    text-decoration: underline #64485c;
+}
+.container{
+    margin:0 auto;
+    max-width: 1024px;
+}
+.header-container{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background-color: white;
+    border: 3px solid #64485c;
+    border-bottom: none;
+}
+.header-foto{
+    margin: 10px;
+    width: 35%;
+}
+.foto{
+    width: 100%;
+    text-align: center;
+}
+.header-content{
+    margin: 10px;
+    width: 65%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.header-menu{
+    border-top: 2px solid #64485c;
+    align-items: center;
+    font-size: 23px; 
+}
+.header-menu-list{
+    display: flex;
+    justify-content:center;
+    list-style: none;
+}
+.header-menu-list{
+padding: 0;
+}
+.header-menu-item{
+    text-align: center;
+    margin:0 15px;
+}
+.header-info{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.header-title{
+    color: #64485c;
+    margin: 0;
+font-size: 40px;
+}
+.header-job_title{
+    color: #64485c;
+    margin: 0;
+    font-size: 25px;
+}
+.main{
+    margin: 10px;
+    width: 65%;
+}
+.main-container{
+    display: flex;
+    width: 100%;
+    background-color: white;
+    border: 3px solid #64485c;
+    border-top: none;
+}
+.section{
+    margin: 10px;
+    width: 35%;
+    background-color: #64485c;
+}
+.section-item{
+text-align: center;
+color: gray;
+}
+.h3{
+    margin: 10px 0;
+}
+.section-contacts-list{
+   text-align:left;
+    list-style: none;
+}
+.section-contacts-a{
+    font-size: 20px;
+}
+.section-contacts-a:hover{
+    text-decoration: underline #97aabd; 
+}
+.section-contacts{
+    font-size: 20px;
+}
+.section-contacts-img{
+    padding-right: 10px;
+}
+.section-skills-list{
+    margin: 0 20px;
+    text-align:left;
+    list-style: circle;
+    font-size: 20px;
+}
+.section-languages-list{
+    margin: 0 20px 10px 20px;
+    text-align:left;
+    list-style: circle;
+    font-size: 20px;
+}
+.main{
+    margin: 0 20px;
+    display: flex;
+    flex-direction: column;
+    color: gray;
+    text-align:center;
+}
+.h3_main{
+    color: #64485c;
+    margin: 10px 0;
+    font-size: 25px;
+}
+.about_me{
+    text-align:justify;
+    font-size: 20px;
+}
+.about_me_a{
+    text-decoration: underline;
+}
+.about_me_a:hover{
+    text-decoration: double underline;
+}
+.hr{
+    border-top: 1px dashed #64485c;
+    /* background-color: #64485c; */
+    height: 1px;
+    margin: 5px 0;
+}
+.section-education-list{
+    text-align:left;
+    list-style: circle;
+    font-size: 20px;
+}
+.section-education-list_two{
+    text-align:left;
+    list-style:none;
+    font-size: 18px;
+}
+.section-text{
+    text-align:left;
+    font-size: 20px;
+}
+.example-js{
+    padding: 10px;
+    background-color: black;
+    align-items: center;
+    text-align:left;
+}
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color:  white;
+    border: 3px solid #64485c;
+    border-top: none;
+}
+.footer-years{
+    color: #64485c;
+    margin: 10px;
+    font-size: 18px;
+}
+.footer-rs{
+    padding: 5px;
+    margin-left: 10px;
+} 
+.rs-school{
+    width: 100px;
+}
+.footer-github{
+    padding: 5px;
+    width: 50px;
+}
+.footer-github:hover,
+.rs-school:hover{
+    filter: drop-shadow(0 0 10px #64485c);
+}
