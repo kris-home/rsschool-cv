@@ -69,6 +69,6 @@ export default encrypt;
     + JavaScript
 
 
-### Languages
+## Languages
 * Russian - native speaker.
 * [English - B1 Intermediate](https://www.efset.org/cert/eP6kxa).
