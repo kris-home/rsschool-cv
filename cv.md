@@ -1,6 +1,6 @@
-[](https://github.com/kris-home/rsschool-cv/blob/gh-pages/img/foto_for_cv-1.jpeg)# Kristina Homenkova
-## Junior Frontend Developer
+[## Junior Frontend Developer](/kris-home/rsschool-cv/blob/gh-pages/img/foto_for_cv-1.jpeg)# Kristina Homenkova
 *** 
+
 ## My Contact Info
 * **Location:** Minsk, Belarus
 * **Phone:** +375 29 917 53 94
@@ -8,6 +8,7 @@
 * **GitHub:** [kris_home](https://github.com/kris-home)
 * **E-mail:** kristina.khomenkova@gmail.com
 *** 
+
 ## About Me
 I took part in the development of the website iso20022.by (https://iso20022.by/), designed the main pages of catalogs and reference books, and her personal account.
 After putting it into production, the site was under my supervision.
@@ -19,6 +20,7 @@ In addition to developing the website, I took part in internal projects of the c
 
 Currently I am actively studying JS and the React framework.
 *** 
+
 ## Skills
 * JavaScript (Basic)
 * HTML
@@ -28,6 +30,7 @@ Currently I am actively studying JS and the React framework.
 * Angular (intermediate level knowledge) 
 * React (in the learning process)
 ***
+
 ## Code Examples
 Conditions of the problem:
 Samwell discovered that his messages were being intercepted and read at Castle Gemini, so his attacks were no longer sudden. After thinking a little, he developed a program that would encrypt transmitted messages using the following algorithm: the program receives a string as input and swaps places in it every 2 consecutive characters. If the length of the string is odd, then the last character remains in its place.
@@ -48,13 +51,14 @@ const encrypt = (text)  => {
 export default encrypt;
 ``` 
 ***
+
 ## Education
 * **Belarusian National Technical University**
    + Environmental management and audit  in industry, environmental-engineer-manager
 * **Private institution "Educational organization of additional professional education "International Academy of Expertise and Evaluation"**
    + software-engineer
 ### Courses
-* ![the Rolling Scopes School](https://github.com/kris-home/rsschool-cv/blob/gh-pages/img/rs.png)
+* ![the Rolling Scopes School](/kris-home/rsschool-cv/blob/gh-pages/img/rs.png)
 * hexlet
     + introduction to programming
     + JavaScript basics
@@ -64,6 +68,7 @@ export default encrypt;
     + CSS
     + JavaScript
 *** 
+
 ### Languages
 * Russian - native speaker.
 * [English - B1 Intermediate](https://www.efset.org/cert/eP6kxa).
